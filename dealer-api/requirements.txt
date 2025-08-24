@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+opencv-python
+requests
+Pillow
+ultralytics
+numpy
+scipy
+python-dotenv
